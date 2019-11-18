@@ -1,1 +1,1 @@
-# Notepad, C++
+# Notepad, Borland C++ Builder 6
